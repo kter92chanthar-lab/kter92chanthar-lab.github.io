@@ -1,3 +1,4 @@
+google.com, pub-2698434787444792, DIRECT, f08c47fec0942fa0
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
 tredio.io, 357a6fdf7642bf815a88822c447d9dc436891, RESELLER
 insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
