@@ -1,4 +1,3 @@
-# Google AdMob (ປ່ຽນ pub-ID ເປັນຂອງເຈົ້າເອງ - ຕອນນີ້ໃສ່ເປັນຂອງເຈົ້າແລ້ວ)
 google.com, pub-2698434787444792, DIRECT, f08c47fec0942fa0
 
 # Unity Ads Direct
